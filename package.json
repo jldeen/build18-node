@@ -1,0 +1,14 @@
+{
+    "name": "build-demo",
+    "version": "1.0.0",
+    "description": "build-demo",
+    "main": "node-demo.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jessica Deen",
+    "license": "MIT",
+    "dependencies": {
+        "figlet": "^1.2.0"
+    }
+}
